@@ -75,3 +75,4 @@ console.log("hello")
 [x] 깃허브에서는 체크박스로 지원, vscode에서는 미적용
 [ ] 체크박스
 
+[출처](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
